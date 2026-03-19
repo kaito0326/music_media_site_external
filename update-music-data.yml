@@ -1,0 +1,47 @@
+name: Update music data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run RSS update
+        env:
+          RSS_FEEDS: ${{ secrets.RSS_FEEDS }}
+        run: npm run update:rss
+
+      - name: Run YouTube update
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_REGION_CODE: JP
+        run: npm run update:youtube
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/bands.json
+          git diff --cached --quiet || git commit -m "Update music data"
+
+      - name: Push changes
+        run: |
+          git push
