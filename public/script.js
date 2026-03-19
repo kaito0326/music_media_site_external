@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Fetch all bands from the API
   function fetchBands() {
-    fetch('/api/bands')
+    fetch('./data/bands.json')
       .then(res => res.json())
       .then(data => {
         allBands = data;
