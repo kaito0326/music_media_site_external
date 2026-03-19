@@ -1,0 +1,14 @@
+{
+  "name": "music-media-site",
+  "version": "1.0.0",
+  "description": "A modern music media site that aggregates indie music news and recommends artists.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "update": "node aggregator.js",
+    "update:lastfm": "node scripts/lastfm-update.js --apiKey=$LASTFM_API_KEY"
+  },
+  "author": "",
+  "license": "MIT"
+}

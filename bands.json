@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "門魔これ虚 (Monmon Korekyu)",
+    "genre": "ロック",
+    "mood": "エネルギー",
+    "description": "轟音ギターとエレクトロサウンドを掛け合わせた新世代インディーロックデュオ。",
+    "image": "images/band1.jpg",
+    "source": "blog-post-1"
+  },
+  {
+    "id": 2,
+    "name": "ロマネスク実験 (Romanesque Experiment)",
+    "genre": "ポップ",
+    "mood": "懐かしさ",
+    "description": "1980年代シンセポップを彷彿とさせるレトロフューチャーサウンド。",
+    "image": "images/band2.jpg",
+    "source": "blog-post-2"
+  },
+  {
+    "id": 3,
+    "name": "雨空フェアリーテイル (Rainy Fairy Tale)",
+    "genre": "フォーク",
+    "mood": "リラックス",
+    "description": "柔らかなアコースティックギターと温かい歌声で聴き手を癒す。",
+    "image": "images/band3.jpg",
+    "source": "blog-post-3"
+  },
+  {
+    "id": 4,
+    "name": "地下鉄ジャズクラブ (Subway Jazz Club)",
+    "genre": "ジャズ",
+    "mood": "夜",
+    "description": "都会の夜を彩るスムースジャズバンド。",
+    "image": "images/band4.jpg",
+    "source": "blog-post-4"
+  }
+]
