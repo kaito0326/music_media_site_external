@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import https from 'https';
 
-const DATA_PATH = path.join(process.cwd(), 'data', 'bands.json');
+const DATA_PATH = path.join(process.cwd(), 'public', 'data', 'bands.json');
 
 // カンマ区切りで上書き可能。
 // 例: RSS_FEEDS="https://pitchfork.com/feed/feed-news/rss,https://example.com/feed.xml"
