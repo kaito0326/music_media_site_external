@@ -5,7 +5,7 @@ import https from 'https';
 
 const API_KEY = process.env.YOUTUBE_API_KEY || '';
 const REGION_CODE = process.env.YOUTUBE_REGION_CODE || 'JP';
-const DATA_PATH = path.join(process.cwd(), 'data', 'bands.json');
+const DATA_PATH = path.join(process.cwd(), 'public', 'data', 'bands.json');
 
 const QUERIES = [
   'indie band new single',
