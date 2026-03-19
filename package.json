@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node server.js",
+    "update:rss": "node scripts/rss-update.js",
+    "update:youtube": "node scripts/youtube-update.js",
+    "update:all": "npm run update:rss && npm run update:youtube"
+  }
+}
