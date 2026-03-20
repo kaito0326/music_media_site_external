@@ -746,5 +746,38 @@
     "source": "YouTube",
     "link": "https://www.youtube.com/watch?v=lVb1FqBgaRo",
     "publishedAt": "2026-03-18T20:30:09Z"
+  },
+  {
+    "id": 69,
+    "name": "Kuru Taps Xaviersobased, Lucy Bedroque for",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "Backstage Hologram doesn’t have a release date yet",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/kuru-taps-xaviersobased-lucy-bedroque-for-new-album/",
+    "publishedAt": "Fri, 20 Mar 2026 04:39:01 +0000"
+  },
+  {
+    "id": 70,
+    "name": "Lizzo Meets Her Past Self in Video for",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "“Don’t Make Me Love U” is her first new release of the year",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/lizzo-meets-her-past-self-in-video-for-new-song/",
+    "publishedAt": "Fri, 20 Mar 2026 04:26:34 +0000"
+  },
+  {
+    "id": 71,
+    "name": "JWords",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "The New Jersey producer’s second solo LP features Nappy Nina and Kingsley Ibeneche",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/jwords-announces-new-album-sound-therapy/",
+    "publishedAt": "Thu, 19 Mar 2026 23:00:41 +0000"
   }
 ]
