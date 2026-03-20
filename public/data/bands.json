@@ -790,5 +790,16 @@
     "source": "RSS",
     "link": "https://pitchfork.com/news/lizzo-meets-her-past-self-in-video-for-new-song/",
     "publishedAt": "Fri, 20 Mar 2026 04:26:34 +0000"
+  },
+  {
+    "id": 73,
+    "name": "Neurosis Surprise",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "An Undying Love For A Burning World is out now",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/neurosis-new-album-an-undying-love-for-a-burning-world/",
+    "publishedAt": "Fri, 20 Mar 2026 19:25:10 +0000"
   }
 ]
