@@ -801,5 +801,16 @@
     "source": "RSS",
     "link": "https://pitchfork.com/news/neurosis-new-album-an-undying-love-for-a-burning-world/",
     "publishedAt": "Fri, 20 Mar 2026 19:25:10 +0000"
+  },
+  {
+    "id": 74,
+    "name": "Wet",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "The British band performed “Mangetout” and “Catch These Fists” alongside host Tina Fey",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/watch-wet-leg-perform-on-snl-uk-series-premiere/",
+    "publishedAt": "Sun, 22 Mar 2026 16:28:03 +0000"
   }
 ]
