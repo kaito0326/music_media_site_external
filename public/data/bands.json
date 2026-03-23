@@ -823,5 +823,16 @@
     "source": "RSS",
     "link": "https://pitchfork.com/news/listen-to-sza-cover-the-goo-goo-dolls-iris/",
     "publishedAt": "Sun, 22 Mar 2026 21:58:11 +0000"
+  },
+  {
+    "id": 76,
+    "name": "Wu-Tang Clan",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "Bone Thugs-N-Harmony will join the rap troupe on the 26-city North American run",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/wu-tang-clan-announce-another-leg-of-their-final-tour/",
+    "publishedAt": "Mon, 23 Mar 2026 14:28:40 +0000"
   }
 ]
