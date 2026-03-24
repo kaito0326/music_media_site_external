@@ -845,5 +845,27 @@
     "source": "RSS",
     "link": "https://pitchfork.com/news/model-actriz-shares-new-ep-announces-2026-tour/",
     "publishedAt": "Mon, 23 Mar 2026 16:49:45 +0000"
+  },
+  {
+    "id": 78,
+    "name": "Jeff",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "Tweedy and his Wilco bandmates also announced plans to play Willie Nelson’s Outlaw Music Festival this summer",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/watch-jeff-tweedy-perform-lou-reed-was-my-babysitter-on-kimmel/",
+    "publishedAt": "Tue, 24 Mar 2026 15:31:19 +0000"
+  },
+  {
+    "id": 79,
+    "name": "Downtown Boys",
+    "genre": "パンク",
+    "mood": "エネルギー",
+    "description": "Get ready for Public Luxury with the punk outfit’s “No Me Jodas”",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/downtown-boys-return-with-first-album-in-nine-years/",
+    "publishedAt": "Tue, 24 Mar 2026 15:05:56 +0000"
   }
 ]
