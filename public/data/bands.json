@@ -867,5 +867,38 @@
     "source": "RSS",
     "link": "https://pitchfork.com/news/downtown-boys-return-with-first-album-in-nine-years/",
     "publishedAt": "Tue, 24 Mar 2026 15:05:56 +0000"
+  },
+  {
+    "id": 80,
+    "name": "Watch Jim Legxacy Bop Around London in Video for",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "His first single since last year’s Black British Music (2025)",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/watch-jim-legxacy-bop-around-london-in-video-for-new-song-idk-idk/",
+    "publishedAt": "Tue, 24 Mar 2026 18:05:03 +0000"
+  },
+  {
+    "id": 81,
+    "name": "Fire-Toolz Signs to Warp for",
+    "genre": "エレクトロニカ",
+    "mood": "エネルギー",
+    "description": "Listen to a new song from Angel Marcloid’s frenetic electronic project",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/fire-toolz-signs-to-warp-for-new-album-lavender-networks/",
+    "publishedAt": "Tue, 24 Mar 2026 17:08:02 +0000"
+  },
+  {
+    "id": 82,
+    "name": "Flea",
+    "genre": "ジャズ",
+    "mood": "エネルギー",
+    "description": "He performed a jazz rendition of “Thinkin Bout You” backed by members of Jeff Parker’s ETA IVtet",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/watch-flea-cover-frank-ocean-on-fallon/",
+    "publishedAt": "Tue, 24 Mar 2026 16:08:17 +0000"
   }
 ]
