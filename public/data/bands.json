@@ -900,5 +900,38 @@
     "source": "RSS",
     "link": "https://pitchfork.com/news/watch-flea-cover-frank-ocean-on-fallon/",
     "publishedAt": "Tue, 24 Mar 2026 16:08:17 +0000"
+  },
+  {
+    "id": 83,
+    "name": "Watch Snail Mail Debut",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "Lindsey Jordan’s new album, Ricochet, is out this Friday",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/watch-snail-mail-debut-new-song-tractor-beam-on-fallon/",
+    "publishedAt": "Wed, 25 Mar 2026 15:21:14 +0000"
+  },
+  {
+    "id": 84,
+    "name": "Two Shell’s",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "Listen to side A of the duo’s latest 12\" single",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/two-shells-new-song-wants-you-to-smile/",
+    "publishedAt": "Wed, 25 Mar 2026 15:08:07 +0000"
+  },
+  {
+    "id": 85,
+    "name": "Aja Monet Preps New Album,",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "Mick Jenkins, Vic Mensa, and producer Meshell Ndegeocello feature on The Color of Rain",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/aja-monet-new-album-the-color-of-rain/",
+    "publishedAt": "Wed, 25 Mar 2026 13:47:41 +0000"
   }
 ]
