@@ -988,5 +988,27 @@
     "source": "RSS",
     "link": "https://pitchfork.com/news/paul-mccartney-announces-new-album-and-shares-song/",
     "publishedAt": "Thu, 26 Mar 2026 15:11:05 +0000"
+  },
+  {
+    "id": 91,
+    "name": "Weezer",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "Rivers Cuomo & co. will be joined by the Shins and Silversun Pickups",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/weezer-announce-major-gathering-its-another-tour/",
+    "publishedAt": "Thu, 26 Mar 2026 17:14:05 +0000"
+  },
+  {
+    "id": 92,
+    "name": "Lily Allen",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "West End Girl returns to the States this fall",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/lily-allen-announces-north-american-arena-tour/",
+    "publishedAt": "Thu, 26 Mar 2026 17:05:51 +0000"
   }
 ]
