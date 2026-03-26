@@ -977,5 +977,16 @@
     "source": "RSS",
     "link": "https://pitchfork.com/news/sublime-announce-first-album-in-30-years/",
     "publishedAt": "Wed, 25 Mar 2026 21:53:06 +0000"
+  },
+  {
+    "id": 90,
+    "name": "Paul McCartney",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "Listen to “Days We Left Behind” from the Beatle’s first album in six years, The Boys of Dungeon Lane",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/paul-mccartney-announces-new-album-and-shares-song/",
+    "publishedAt": "Thu, 26 Mar 2026 15:11:05 +0000"
   }
 ]
