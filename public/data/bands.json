@@ -944,5 +944,38 @@
     "source": "RSS",
     "link": "https://pitchfork.com/news/watch-gelli-haha-drive-a-cloud-in-rainbow-hued-video-for-new-song/",
     "publishedAt": "Wed, 25 Mar 2026 17:17:49 +0000"
+  },
+  {
+    "id": 87,
+    "name": "Kanye West Says His",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "The announcement contradicts claims the rapper made during a 2025 interview with Justin Laboy",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/kanye-west-says-his-new-album-bully-uses-no-ai/",
+    "publishedAt": "Thu, 26 Mar 2026 01:25:50 +0000"
+  },
+  {
+    "id": 88,
+    "name": "Geese",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "The band tackled “Fools Gold” during a Tuesday show at O2 Victoria Warehouse",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/watch-geese-cover-the-stone-roses-in-manchester/",
+    "publishedAt": "Wed, 25 Mar 2026 21:59:05 +0000"
+  },
+  {
+    "id": 89,
+    "name": "Sublime",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "Jakob Nowell will assume his late father’s duties on Until the Sun Explodes",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/sublime-announce-first-album-in-30-years/",
+    "publishedAt": "Wed, 25 Mar 2026 21:53:06 +0000"
   }
 ]
