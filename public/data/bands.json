@@ -1043,5 +1043,16 @@
     "source": "RSS",
     "link": "https://pitchfork.com/news/che-drops-new-ep/",
     "publishedAt": "Fri, 27 Mar 2026 04:05:10 +0000"
+  },
+  {
+    "id": 96,
+    "name": "Empress Of",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "Written after Lorely Rodriguez’s home was destroyed in the California wildfires",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/listen-to-empress-ofs-new-song-dream-house/",
+    "publishedAt": "Fri, 27 Mar 2026 16:04:03 +0000"
   }
 ]
