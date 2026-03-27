@@ -1010,5 +1010,38 @@
     "source": "RSS",
     "link": "https://pitchfork.com/news/lily-allen-announces-north-american-arena-tour/",
     "publishedAt": "Thu, 26 Mar 2026 17:05:51 +0000"
+  },
+  {
+    "id": 93,
+    "name": "Miley Cyrus",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "She previewed “Younger You” in the Hannah Montana 20th Anniversary Special on March 24",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/miley-cyrus-shares-new-hannah-montana-song/",
+    "publishedAt": "Fri, 27 Mar 2026 04:22:44 +0000"
+  },
+  {
+    "id": 94,
+    "name": "Actress and Suzanne Ciani",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "Concrète Waves documents two improvised sets at London’s Barbican Theatre and Barcelona’s Sónar Festival",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/actress-and-suzanne-ciani-release-collaborative-live-album/",
+    "publishedAt": "Fri, 27 Mar 2026 04:16:41 +0000"
+  },
+  {
+    "id": 95,
+    "name": "Che",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "The five-track release marks his first new music since REST IN BASS: ENCORE",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/che-drops-new-ep/",
+    "publishedAt": "Fri, 27 Mar 2026 04:05:10 +0000"
   }
 ]
