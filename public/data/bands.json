@@ -1065,5 +1065,27 @@
     "source": "RSS",
     "link": "https://pitchfork.com/news/jack-white-announces-european-2026-tour/",
     "publishedAt": "Fri, 27 Mar 2026 20:15:03 +0000"
+  },
+  {
+    "id": 98,
+    "name": "Thomas",
+    "genre": "パンク",
+    "mood": "エネルギー",
+    "description": "It’s the Daft Punk co-founder second live performance in 17 years",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/watch-thomas-bangalter-and-fred-again-b2b-at-alexandra-palace/",
+    "publishedAt": "Sat, 28 Mar 2026 17:05:00 +0000"
+  },
+  {
+    "id": 99,
+    "name": "Kanye West",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "The long-delayed album is now available to stream",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/kanye-west-releases-bully/",
+    "publishedAt": "Fri, 27 Mar 2026 05:21:32 +0000"
   }
 ]
