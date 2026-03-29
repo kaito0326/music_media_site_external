@@ -1087,5 +1087,16 @@
     "source": "RSS",
     "link": "https://pitchfork.com/news/kanye-west-releases-bully/",
     "publishedAt": "Fri, 27 Mar 2026 05:21:32 +0000"
+  },
+  {
+    "id": 100,
+    "name": "Wolf",
+    "genre": "その他",
+    "mood": "夜",
+    "description": "They played ‘White Horses’ and ‘Leaning Against the Wall’ on the new series’ second episode",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/watch-wolf-alice-perform-on-snl-uk/",
+    "publishedAt": "Sun, 29 Mar 2026 17:30:20 +0000"
   }
 ]
