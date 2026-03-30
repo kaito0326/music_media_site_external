@@ -1098,5 +1098,27 @@
     "source": "RSS",
     "link": "https://pitchfork.com/news/watch-wolf-alice-perform-on-snl-uk/",
     "publishedAt": "Sun, 29 Mar 2026 17:30:20 +0000"
+  },
+  {
+    "id": 101,
+    "name": "Joni",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "She joined Sarah McLachlan and Allison Russell’s tribute medley to sing a bit of “Big Yellow Taxi”",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/watch-joni-mitchell-perform-accept-lifetime-achievement-award-at-2026-junos/",
+    "publishedAt": "Mon, 30 Mar 2026 03:02:31 +0000"
+  },
+  {
+    "id": 102,
+    "name": "Chuquimamani-Condori Confirms New Los Thuthanaka Music,",
+    "genre": "その他",
+    "mood": "エネルギー",
+    "description": "The duo’s next project, Waq'a, is out on April 3",
+    "image": "images/placeholder.png",
+    "source": "RSS",
+    "link": "https://pitchfork.com/news/chuquimamani-condori-confirms-new-los-thuthanaka-music-shares-unreleased-songs/",
+    "publishedAt": "Sun, 29 Mar 2026 21:04:36 +0000"
   }
 ]
